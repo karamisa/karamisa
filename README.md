@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Chemical Engineering React, Vue, Tailwind, JS**
+- 💬 Ask me about **React, Vue, Tailwind, JS, Chemical Engineering**
 
 - 📫 How to reach me **karam_isa@icloud.com**
 
